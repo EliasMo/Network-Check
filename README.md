@@ -21,7 +21,10 @@ This Network Traffic Analyzer is an automated network security project with adap
   - Powershell scripting
   - networking,protocols and security
 
-Studying concepts right now......... To be Continued ........
+## Miro Mindmap
+
+<img width="750" alt="image" src="https://github.com/EliasMo/Network-Check/assets/45215421/a51bab69-e21d-4348-9855-c71c7b93f219">
+
 
 
 
