@@ -1,5 +1,5 @@
 # Network Traffic Analyzer
-This Network Traffic Analyzer is an automated network security project with adaptive firewall management, threat detection, historical analysis, and an interactive dashboard.
+This Network Traffic Analyzer is an automated network security project with adaptive firewall management, threat detection and historical analysis.
 
 ## Key Components
   - Automated Threat Detection
@@ -7,23 +7,31 @@ This Network Traffic Analyzer is an automated network security project with adap
   - Historical Analysis
   - Automated incident Response
   - User and Device Tracking
-  - Interactive Dashboard
 
 ## Objectives 
-  - Create an automated threat detection system for proactive security
+  - Create an automated threat detection system
   - Develop adaptive firewall rules for an immediate response to emerging threats.
   - Historical analysis and trend identification for informed decision making
   - Automated incident response for threat mitigation
-  - Enhance user and device tracking capabilities for forensic analysis
-  - interactive dashboard for intuitive monitoring and reporting
+  - Enhance user and device tracking capabilities
 
 ## Prerequisites 
-  - Powershell scripting
-  - networking,protocols and security
+  - Powershell Scripting
+  - Networking, Protocols and Security
 
 ## Miro Mindmap
 
-<img width="750" alt="image" src="https://github.com/EliasMo/Network-Check/assets/45215421/a51bab69-e21d-4348-9855-c71c7b93f219">
+<img width="894" alt="image" src="https://github.com/EliasMo/Network-Check/assets/45215421/1c45cf1a-fbe2-4d3b-bc52-b12e77e18ecc">
+
+## Jira
+
+<img width="591" alt="image" src="https://github.com/EliasMo/Network-Check/assets/45215421/ff2940d1-7b18-4916-a808-6cc80cc2933d">
+
+Using Jira to split up the project into parts and using Agile. 
+
+
+
+
 
 
 
